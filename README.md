@@ -1,3 +1,11 @@
+> **Write-up ini sudah dipindahkan ke repo utama.**
+>
+> Laporan lengkap dan gambar: [My-CTF-Write-ups — hackthebox/grandpa](https://github.com/Rully2212/My-CTF-Write-ups/tree/main/hackthebox/grandpa).
+>
+> Pembaruan berikutnya dilakukan di repo utama. Riwayat asli repo ini tetap tersedia sebagai arsip.
+
+---
+
 # Hack The Box: Grandpa Writeup
 
 > **Author:** Rully Miftahur Rozaq  
